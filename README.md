@@ -23,6 +23,6 @@ Without relying on JavaScript event listeners, this project successfully impleme
 2.  **Fluid Motion Profiles:** Customized `cubic-bezier` timing curves to replicate premium, high-tech screen transitions.
 3.  **Responsive Layouts:** Seamless adaptation across desktop and mobile screen sizes using fluid media queries.
 
-## 📸 Screenshots & Previews
+## 📸 Screenshots & Previews(Live At) https://buildbyaditya.github.io/NiikeStore/
 
 
