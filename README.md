@@ -25,4 +25,4 @@ Without relying on JavaScript event listeners, this project successfully impleme
 
 ## 📸 Screenshots & Previews
 
-*(Optional: Add screenshots or a GIF of your animations here)*# NiikeStore
+
